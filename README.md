@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-![MasterHead](Madhur-Yadav\data engineer.JPG)
+![MasterHead](![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg))
 <h1 align="center">Hi 👋, I'm Madhur Yadav</h1>
 <h3 align="center">Hey there! I like working with data—but more importantly, I like making it actually useful.
 
