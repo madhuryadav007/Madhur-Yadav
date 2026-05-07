@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/madhuryadav007/Madhur-Yadav/blob/8f9aa7f5fa8c7f750fabeb0950ad60a539b6cf8c/data%20engineer.JPG)
+![MasterHead](https://github.com/madhuryadav007/Madhur-Yadav/blob/dcaf3d99e94d5c392e07ab7b162bd73bd2e14aa9/data%20engineer.JPG)
 <h1 align="center">Hi 👋, I'm Madhur Yadav</h1>
 <h3 align="center">Hey there! I like working with data—but more importantly, I like making it actually useful.
 
