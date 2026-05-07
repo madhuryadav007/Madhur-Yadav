@@ -15,4 +15,4 @@ You’ll find projects around data pipelines, cloud-based workflows, and perform
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/madhur-y-768817179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhur-y-768817179" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/madhur-y-768817179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhur-y-768817179" height="30" width="40" /></a>
